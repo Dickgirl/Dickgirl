@@ -7,7 +7,7 @@
 
 🍨 One of the Founders of [Cweamteam](https://discord.gg/cweam) 
 
-🥀 Owner of Xanarchy 
+🥀 Owner of [Xanarchy](https://discord.gg/CsvaPps735) 
 
 🔧 Main Language i code in is python 
 
