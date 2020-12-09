@@ -9,7 +9,7 @@
 
 🥀 Owner of Xanarchy 
 
-🔧 Main Languages i code in is python
+🔧 Main Language i code in is python 
 
 🎮 Anime and video game are my past time
 
