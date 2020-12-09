@@ -12,6 +12,7 @@ Owner of Xanarchy
 🎮 Anime and video game are my past time
 
 
+🎮 My fav game is warframe
 
 
 
