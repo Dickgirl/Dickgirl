@@ -5,14 +5,13 @@
 
 
 
-One of the Founders of [Cweamteam](https://discord.gg/cweam) 
+🍨 One of the Founders of [Cweamteam](https://discord.gg/cweam) 
 
-Owner of Xanarchy 
+🥀 Owner of Xanarchy 
 
-Main Languages i code in is python
+🔧 Main Languages i code in is python
 
 🎮 Anime and video game are my past time
-
 
 🎮 My fav game is warframe
 
