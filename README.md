@@ -23,3 +23,9 @@
 - YouTube: https://www.youtube.com/c/exxploiting
 - Instagram: https://www.instagram.com/exxploiting/
 - Website: https://www.exxploiting.com
+
+
+### 💬 What Groups i'm in:
+- Xanarchy: https://discord.gg/CsvaPps735
+- CweamTeam: https://discord.gg/Cweam
+- 0Sec: https://0sec.network/
