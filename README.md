@@ -1,6 +1,6 @@
 ## Welcome:
 <p>
-  <img width="200" alt="hello!" align="left" src="https://media1.tenor.com/images/a0689c46e24fc5a5d34999af592b23f3/tenor.gif">
+  <img width="250" alt="hello!" align="left" src="https://media1.tenor.com/images/a0689c46e24fc5a5d34999af592b23f3/tenor.gif">
 </p>
 
 
