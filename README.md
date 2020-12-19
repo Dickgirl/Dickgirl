@@ -33,4 +33,4 @@
 ### 💬 Languages
 - ![Python](https://img.shields.io/badge/-Python-000?&logo=python)
 
-<a href="https://www.exxploiting.com"><img height="100px" src="https://github-readme-stats.vercel.app/api?username=exxploiting&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=30" /><!-- wi*quL3fcV --><img height="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=exxploiting&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes" /></a>
+<a href="https://www.exxploiting.com"><img height="100px" src="https://github-readme-stats.vercel.app/api?username=exxploiting&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=25" /><!-- wi*quL3fcV --><img height="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=exxploiting&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes" /></a>
