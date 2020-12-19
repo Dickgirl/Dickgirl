@@ -16,6 +16,9 @@
 🌱 I’m currently learning **C and C++**
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=exxploiting&label=Profile%20views&color=0e75b6&style=flat" alt="exxploiting" /> </p>
+
+<p align="left"> <a href="https://twitter.com/exxploiting" target="blank"><img src="https://img.shields.io/twitter/follow/exxploiting?logo=twitter&style=for-the-badge" alt="exxploiting" /></a> </p>
 
 
 ### 💬 Where to find me:
