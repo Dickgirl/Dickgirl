@@ -9,11 +9,11 @@
 
 🥀 Owner of [Xanarchy](https://discord.gg/CsvaPps735) 
 
-🔧 Main Language i code in is python 
-
 🎮 Anime and video game are my past time
 
-🎮 My fav game is warframe
+🔭 I’m currently working on [Xanarchy](https://github.com/Exxploiting/Xanarchy-Self-Bot)
+
+🌱 I’m currently learning **C and C++**
 
 
 
