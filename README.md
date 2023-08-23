@@ -5,11 +5,11 @@
 
 
 
-🍨 One of the Founders of [Dox.ac](https://dox.ac) 
+🍨 One of the Founders of [dox.ac](https://dox.ac) 
 
 🎮 Anime and video game are my past time
 
-🔭 I’m currently working on [Xanarchy](https://dox.ac)
+🔭 I’m currently working on [dox.ac](https://dox.ac)
 
 🌱 I’m currently learning **cython**
 
