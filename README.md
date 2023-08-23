@@ -5,25 +5,23 @@
 
 
 
-🍨 One of the Founders of [Cweamteam](https://discord.gg/cweam) 
-
-🥀 Owner of [Xanarchy](https://discord.gg/CsvaPps735) 
+🍨 One of the Founders of [Dox.ac](https://dox.ac) 
 
 🎮 Anime and video game are my past time
 
-🔭 I’m currently working on [Xanarchy](https://github.com/Exxploiting/Xanarchy-Self-Bot)
+🔭 I’m currently working on [Xanarchy](https://dox.ac)
 
-🌱 I’m currently learning **C and C++**
+🌱 I’m currently learning **cython**
 
 
 ### 💬 Connect with me:
-<a href="https://twitter.com/exxploiting" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="exxploiting" height="30" width="40" /></a>
-<a href="https://discord.gg/degenerates" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="CsvaPps735" height="30" width="40" /></a>
+<a href="https://twitter.com/p_e_d_o" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="exxploiting" height="30" width="40" /></a>
+<a href="https://discord.gg/plan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="CsvaPps735" height="30" width="40" /></a>
 </p>
 
 ### 💬 Stats:
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=exxploiting&label=Profile%20views&color=0e75b6&style=flat" alt="exxploiting" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dickgirl&label=Profile%20views&color=0e75b6&style=flat" alt="dickgirl" /> </p>
 
-<p align="left"> <a href="https://twitter.com/exxploiting" target="blank"><img src="https://img.shields.io/twitter/follow/exxploiting?logo=twitter&style=for-the-badge" alt="exxploiting" /></a> </p>
+<p align="left"> <a href="https://twitter.com/p_e_d_o" target="blank"><img src="https://img.shields.io/twitter/follow/p_e_d_o?logo=twitter&style=for-the-badge" alt="p_e_d_o" /></a> </p>
 
