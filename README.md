@@ -1,27 +1,37 @@
-## Welcome:
-<p>
-  <img width="250" alt="hello!" align="left" src="https://media1.tenor.com/images/a0689c46e24fc5a5d34999af592b23f3/tenor.gif">
+```math
+\ce{$\unicode[goombafont; color:red; z-index: -1; position: fixed; top: 0; left: 0; height: 100%; object-fit: cover; width: 100%; opacity: 0.7; background: url('https://media1.tenor.com/m/q3lrw2Fx92wAAAAC/awesome-background.gif');]{x0000}$}
+```
+<p align="center">
+  <a href="https://github.com/Dickgirl?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=55960c&labelColor=488207&label=stars&query=$.stars&url=https://api.github-star-counter.workers.dev/user/Dickgirl"/>
+  </a>
+  <a href="https://github.com/Dickgirl?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total forks on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=fork&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=ff0013&labelColor=ae1206&label=forks&query=$.forks&url=https://api.github-star-counter.workers.dev/user/Dickgirl"/>
+  </a>
+  <a href="https://github.com/Dickgirl?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/Dickgirl?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/Dickgirl/Simple-View-Counter">
+    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=Dickgirl&style=for-the-badge&color=lightgrey"/>
+  </a>
 </p>
 
+![github contribution grid snake animation](https://raw.githubusercontent.com/Dickgirl/Dickgirl/output/github-contribution-grid-snake-dark.svg)
 
+## 🚀 Technologies & Tools
 
-🍨 One of the Founders of [dox.ac](https://dox.ac) 
+### Languages
+![python](https://img.shields.io/badge/python-black?style=flat-square&logo=python)
+![bash](https://img.shields.io/badge/bash-black?style=flat-square&logo=gnu-bash)
+![go](https://img.shields.io/badge/Go-black?logo=go&logoColor=blue&style=flat-square)
 
-🎮 Anime and video game are my past time
+## ⚡ GitHub Stats
 
-🔭 I’m currently working on [dox.ac](https://dox.ac)
-
-🌱 I’m currently learning **cython**
-
-
-### 💬 Connect with me:
-<a href="https://twitter.com/p_e_d_o" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="exxploiting" height="30" width="40" /></a>
-<a href="https://discord.gg/plan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="CsvaPps735" height="30" width="40" /></a>
+<p align="center">
+    <img height="120px" src="https://github-readme-streak-stats.herokuapp.com/?user=Dickgirl&hide_border=true&theme=dark" />
+    <img height="120px" src="https://github-readme-stats.vercel.app/api?username=Dickgirl&hide_title=true&theme=dark&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&hide_rank=true&icon_color=fa8b00%22" />
+    <img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dickgirl&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=dark" />
 </p>
 
-### 💬 Stats:
+![trophy](https://github-profile-trophy.vercel.app/?username=Dickgirl&theme=onedark&column=-1)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dickgirl&label=Profile%20views&color=0e75b6&style=flat" alt="dickgirl" /> </p>
-
-<p align="left"> <a href="https://twitter.com/p_e_d_o" target="blank"><img src="https://img.shields.io/twitter/follow/p_e_d_o?logo=twitter&style=for-the-badge" alt="p_e_d_o" /></a> </p>
-
+## ⭐ My Projects
